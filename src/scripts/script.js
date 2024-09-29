@@ -1,3 +1,4 @@
+const Site = window.document.getElementsByTagName("root") 
 let ButtonMenu = window.document.getElementById("ButtonMenu")
 let NavMenu = window.document.getElementById("NavMenu")
 
